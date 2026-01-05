@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/img/port.png" width="100%" style="border-radius: 10px; object-fit: cover;" alt="Banner Portafolio Daniela Macay"/>
+<img src="assets/img/bannner.png" width="100%" style="border-radius: 10px; object-fit: cover;" alt="Banner Portafolio Daniela Macay"/>
 
   <h1>Daniela B. Sierra M. Biologist | Data Scientist | ESG Specialist</h1>
   
