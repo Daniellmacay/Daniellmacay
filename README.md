@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1477322524744-0eece9e79640?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius: 10px; object-fit: cover; height: 300px;" alt="Vista Satelital Bosque"/>
+<img src="ruta/a/tu/banner.png" width="100%" style="border-radius: 10px;" alt="Mis Mapas"/>
 
   <h1>Hola, soy Daniela Macay 👋</h1>
   
