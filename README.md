@@ -1,7 +1,7 @@
 <div align="center">
-<img src="ruta/a/tu/banner.png" width="100%" style="border-radius: 10px;" alt="Mis Mapas"/>
+<img src="assets/img/port.png" width="100%" style="border-radius: 10px; object-fit: cover;" alt="Banner Portafolio Daniela Macay"/>
 
-  <h1>Hola, soy Daniela Macay 👋</h1>
+  <h1>Daniela B. Sierra M. Biologist | Data Scientist | ESG Specialist</h1>
   
   <a href="https://linkedin.com/in/tu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
