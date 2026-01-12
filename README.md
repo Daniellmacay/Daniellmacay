@@ -35,7 +35,7 @@ I am a Biologist specialized in **Environmental Compliance and Waste Management*
 
 ### 🚀 Proyectos Destacados
 
-| **Análisis de Cambio de Uso de Suelo (ANP)** | **Gestión Integral de Residuos (ESG)** |
+| **Geospatial Analysis for Environmental Impact Assessment (EIA))** | **Hazardous Waste Management for Mechanical Workshops** |
 | :---: | :---: |
 | <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Mapa+Satelital+GEE" width="100%"> | <img src="https://placehold.co/600x300/005f30/FFF?text=Plan+Manejo+Residuos" width="100%"> |
 | Detectando deforestación en zonas protegidas mediante **Google Earth Engine** y algoritmos de **Random Forest** en R. | Desarrollo de un **Programa de Prevención y Manejo Integral** alineado a la normativa mexicana e ISO 14001. |
