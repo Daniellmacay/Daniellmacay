@@ -19,9 +19,7 @@
 # Daniela Bethzabe Sierra Macay  
 ## Environmental Biologist | Industrial Waste Specialist | Data Analyst
 
-I am a Biologist specialized in **Environmental Compliance and Waste Management** for high-impact industries. My work bridges the gap between biological science, regulatory frameworks (NOMs/LGPGIR), and data-driven decision-making.
-
-I focus on optimizing waste management strategies and analyzing environmental risks using **Python, R, SQL, and Geospatial Intelligence (GEE)**.
+I am a Biologist specialized in **Environmental Compliance and Waste Management** for high-impact industries. My work bridges the gap between biological science, regulatory frameworks (NOMs/LGPGIR), and data-driven decision-making
 
 **Interests & Skills**  
 - Land-use/land-cover change in protected areas (SIG, QEE, NDVI)  
@@ -30,11 +28,6 @@ I focus on optimizing waste management strategies and analyzing environmental ri
 
 ![Skills](https://skillicons.dev/icons?i=python,r,sql,powerbi,qgis)  
 
-**Featured Projects**  
-- [3D Interactive Land-Use Map – ANP Cerro Pino Grande](link-to-repo) [file:12]  
-- [Climate Data Visualizer 3D](link-to-repo)  
-- [Social Service Project – C3-UNAM](link-to-repo)  
-- [Lab VIII Report – Change Detection](link-to-repo)  
 
 📧 daniellmacay@gmail.com | [LinkedIn](https://www.linkedin.com/in/daniela-macay) | [CV](link-to-CV)[file:11]
 
