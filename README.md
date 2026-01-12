@@ -17,10 +17,11 @@
 <br/>
 
 # Daniela Bethzabe Sierra Macay  
-**Environmental Biologist & Data Analyst** 🌿📊  
+## Environmental Biologist | Industrial Waste Specialist | Data Analyst
 
-Biologist from UNAM with a hybrid profile in **geospatial analysis**, **environmental data** and **waste management**.  
-Currently completing diploma in *Integrated Solid Waste Management* (UNAM): LGPGIR regulation, hazardous/non-hazardous waste, circular economy, treatment technologies & waste plans.[file:11]  
+I am a Biologist specialized in **Environmental Compliance and Waste Management** for high-impact industries. My work bridges the gap between biological science, regulatory frameworks (NOMs/LGPGIR), and data-driven decision-making.
+
+I focus on optimizing waste management strategies and analyzing environmental risks using **Python, R, SQL, and Geospatial Intelligence (GEE)**.
 
 **Interests & Skills**  
 - Land-use/land-cover change in protected areas (SIG, QEE, NDVI)  
