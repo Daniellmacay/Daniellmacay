@@ -16,12 +16,26 @@
 
 <br/>
 
-### 👩‍🔬 Sobre mí
-* 🌱 **Bióloga por la UNAM** especializada en Análisis Espacial.
-* 🔭 Actualmente en el **Centro de Ciencias de la Complejidad (C3)** fusionando ecología y datos.
-* ♻️ Pasión por **ESG, Economía Circular** y cumplimiento normativo.
-* 🛰️ Herramientas que utilizo: **R, Python, Google Earth Engine & SQL**.
-* 📚 Meta 2026: Convertirme en Data Scientist de Conservación.
+# Daniela Bethzabe Sierra Macay  
+**Environmental Biologist & Data Analyst** 🌿📊  
+
+Biologist from UNAM with a hybrid profile in **geospatial analysis**, **environmental data** and **waste management**.  
+Currently completing diploma in *Integrated Solid Waste Management* (UNAM): LGPGIR regulation, hazardous/non-hazardous waste, circular economy, treatment technologies & waste plans.[file:11]  
+
+**Interests & Skills**  
+- Land-use/land-cover change in protected areas (SIG, QEE, NDVI)  
+- Climate data analysis & ESG indicators  
+- Python, R, SQL, Power BI (data cleaning, visualization)  
+
+![Skills](https://skillicons.dev/icons?i=python,r,sql,powerbi,qgis)  
+
+**Featured Projects**  
+- [3D Interactive Land-Use Map – ANP Cerro Pino Grande](link-to-repo) [file:12]  
+- [Climate Data Visualizer 3D](link-to-repo)  
+- [Social Service Project – C3-UNAM](link-to-repo)  
+- [Lab VIII Report – Change Detection](link-to-repo)  
+
+📧 daniellmacay@gmail.com | [LinkedIn](https://www.linkedin.com/in/daniela-macay) | [CV](link-to-CV)[file:11]
 
 ---
 
