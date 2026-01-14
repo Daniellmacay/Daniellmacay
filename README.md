@@ -1,7 +1,8 @@
 <div align="center">
 <img src="assets/img/bannner.png" width="100%" style="border-radius: 10px; object-fit: cover;" alt="Banner Portafolio Daniela Macay"/>
 
-  <h1>Daniela B. Sierra M. Biologist | Data Scientist | ESG Specialist</h1>
+  <h1>Daniela Bethzabe Sierra Macay
+    Environmental Biologist | Industrial Waste Specialist | Data Analyst</h1>
   
   <a href="https://linkedin.com/in/tu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -16,8 +17,6 @@
 
 <br/>
 
-# Daniela Bethzabe Sierra Macay  
-## Environmental Biologist | Industrial Waste Specialist | Data Analyst
 
 I am a Biologist specialized in **Environmental Compliance and Waste Management** for high-impact industries. My work bridges the gap between biological science, regulatory frameworks (NOMs/LGPGIR), and data-driven decision-making
 
@@ -27,9 +26,6 @@ I am a Biologist specialized in **Environmental Compliance and Waste Management*
 - Python, R, SQL, Power BI (data cleaning, visualization)  
 
 ![Skills](https://skillicons.dev/icons?i=python,r,sql,powerbi,qgis)  
-
-
-📧 daniellmacay@gmail.com | [LinkedIn](https://www.linkedin.com/in/daniela-macay) | [CV](link-to-CV)[file:11]
 
 ---
 
