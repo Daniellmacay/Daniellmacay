@@ -1,8 +1,8 @@
 <div align="center">
 <img src="assets/img/bannner.png" width="100%" style="border-radius: 10px; object-fit: cover;" alt="Banner Portafolio Daniela Macay"/>
 
-  <h1>Daniela Bethzabe Sierra Macay
-    Environmental Biologist | Industrial Waste Specialist | Data Analyst</h1>
+  <h1>Daniela Bethzabe Sierra Macay</h1>
+    Environmental Biologist | Industrial Waste Specialist | Data Analyst
   
   <a href="https://linkedin.com/in/tu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
